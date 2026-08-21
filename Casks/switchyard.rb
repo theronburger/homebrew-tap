@@ -1,6 +1,6 @@
 cask "switchyard" do
-  version "0.2.1"
-  sha256 "599c0616841a080de4ce3daa5693efffafc7fd4744c843b13cdb76f404b15b34"
+  version "0.2.2"
+  sha256 "e11291306d786b65b30d67db4259119f9affc311522974cb737404aa2678d884"
 
   url "https://github.com/theronburger/switchyard/releases/download/v#{version}/switchyard_#{version}_macos_universal.zip"
   name "Switchyard"
