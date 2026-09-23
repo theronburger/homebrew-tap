@@ -1,6 +1,6 @@
 cask "key-session" do
-  version "0.6.2"
-  sha256 "08d744213f683fa9d1f7387e48e92d73ea95a7298978268f95365c6fa21df4e8"
+  version "0.7.0"
+  sha256 "87837f1743d836caa58d059b3aa8f7eec4f309475abe4ae33dcc6e44698f2495"
 
   url "https://github.com/theronburger/key-session/releases/download/v#{version}/key-session_#{version}_macos_universal.zip"
   name "Key Session"
