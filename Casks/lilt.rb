@@ -1,6 +1,6 @@
 cask "lilt" do
-  version "0.1.0"
-  sha256 "b9763a6664f24f93838896d7e3a28ce8c498b6719f89623baee9f8bd32e3a74c"
+  version "0.2.0"
+  sha256 "13b133b4627e88b40e2644f4d7d083a21d4fbd2c8f476e106fd4f154e44c42c1"
 
   url "https://github.com/theronburger/lilt/releases/download/v#{version}/lilt_#{version}_macos_arm64.zip"
   name "Lilt"
